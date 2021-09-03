@@ -22,10 +22,12 @@
   ##
   
 <!-- Links -->
+  ## Contact me
 <div>
     <a href="https://api.whatsapp.com/send?phone=5551997108308" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/thau%C3%A3-engelmann-6aaa04219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:engelmann.webdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <!--- 👋 A junior Front-End developer located in Sapiranga, Brazil...
 - 👀 I’m interested in front-end opportunities and collaborative projects...
