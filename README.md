@@ -1,6 +1,6 @@
 # Yo! I am Thauã Engelmann
 
-I am a self-taught web developer based on Sapiranga, Brazil. For the past year, I have been challenging myself through Front-End development and eventually, I started to become more and more enthusiastic with it. Now, as professionally connected with the software industry, I am interest on front-end scope and free for new opportunities. 
+I am a self-taught web developer based on Sapiranga, Brazil. For the past year, I have been challenging myself through Front-End development and eventually, I started to become more and more enthusiastic with it. 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
@@ -31,7 +31,7 @@ I am a self-taught web developer based on Sapiranga, Brazil. For the past year, 
     <a href="mailto:engelmann.webdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<!--- 👋 A junior Front-End developer located in Sapiranga, Brazil...
+<!--- 👋 A junior Front-End developer based on Sapiranga, Brazil...
 - 👀 I’m interested in front-end opportunities and collaborative projects...
 - 🌱 I’m currently learning Javascript and React JS...
 - 💞️ I’m looking to collaborate on front-end projects...
