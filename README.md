@@ -34,7 +34,7 @@ You can try to contact me using:
     <a href="mailto:engelmann.webdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
   
-  
+##  
 Please, if you have any questions about me, about my projects / work or just want to say a hello, really don't hesitate to contact me using my social links :)
 
 <!--- 👋 A junior Front-End developer based on Sapiranga, Brazil...
