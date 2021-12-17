@@ -1,5 +1,7 @@
 # Yo! I am Thauã Engelmann
 
+I am a self-taught web developer based on Sapiranga, Brazil. 
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 <!-- Github readme Status -->
