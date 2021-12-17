@@ -33,6 +33,9 @@ You can try to contact me using:
     <a href="https://www.linkedin.com/in/thau%C3%A3-engelmann-6aaa04219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:engelmann.webdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+  
+  
+Please, if you have any questions about me, about my projects / work or just want to say a hello, really don't hesitate to contact me using my social links :)
 
 <!--- 👋 A junior Front-End developer based on Sapiranga, Brazil...
 - 👀 I’m interested in front-end opportunities and collaborative projects...
