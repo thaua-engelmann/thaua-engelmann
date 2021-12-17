@@ -13,6 +13,8 @@ I am a self-taught web developer based on Sapiranga, Brazil. For the past year, 
   
 <!-- Languages I'm working on -->
 ## and I'm working with
+  
+I am currently looking to learn and work with the following technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,6 +27,7 @@ I am a self-taught web developer based on Sapiranga, Brazil. For the past year, 
   
 <!-- Links -->
   ## Contact me
+You can try to contact me using:
 <div>
     <a href="https://api.whatsapp.com/send?phone=5551997108308" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/thau%C3%A3-engelmann-6aaa04219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
