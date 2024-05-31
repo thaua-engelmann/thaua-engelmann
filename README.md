@@ -1,6 +1,7 @@
 # Yo! I am Thauã Engelmann
 
-I am a self-taught software engineer based on Sapiranga, Brazil. For the past three years, I have been challenging myself through Front-End stack, developing and architecting robust, well-performed and widely used Angular softwares. If you want to talk about any project, idea, feature, or just say a "hi", don't hesitate to get in touch with me!
+I am a self-taught software engineer based on Sapiranga, Brazil. For the past three years, I have been challenging myself through Front-End stack, developing and architecting robust, well-performed and widely used Angular softwares. I am currently working at @agger, a software company for insurance brokers in Brazil, but feel 100% free to talk to me about any idea you got, any project, feature or just to say a "hi". Don't hesitate to get in touch with me. You can find my contacts right at the bottom of this page :)
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 <!-- Github readme Status -->
