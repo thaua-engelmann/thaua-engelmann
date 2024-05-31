@@ -1,7 +1,6 @@
 # Yo! I am Thauã Engelmann
 
-I am a self-taught web developer based on Sapiranga, Brazil. For the past year, I have been challenging myself through Front-End development and eventually, I started to become more and more enthusiastic with it. 
-
+I am a self-taught software engineer based on Sapiranga, Brazil. For the past three years, I have been challenging myself through Front-End stack, developing and architecting robust, well-performed and widely used Angular softwares. If you want to talk about any project, idea, feature, or just say a "hi", don't hesitate to get in touch with me!
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 <!-- Github readme Status -->
