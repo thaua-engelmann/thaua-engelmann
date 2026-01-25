@@ -6,7 +6,8 @@ designing reusable UI components and intergrating with REST APIs across many lar
 Currently working at @Dimensa (a TOTVS company) for financial institutions and insurance
 organizations. You should take a look at my resume right below ⬇️
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">[thaua-engelmann-resume.pdf](https://github.com/user-attachments/files/24849011/thaua-engelmann-resume.pdf)
+
 
 <div>
   <a href="https://github.com/thaua-engelmann">
