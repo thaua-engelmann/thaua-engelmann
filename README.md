@@ -1,6 +1,11 @@
 # Yo! I am Thauã Engelmann
 
-I am a self-taught software engineer based on Sapiranga, Brazil. For the past three years, I have been challenging myself through Front-End stack, developing and architecting robust, well-performed and widely used Angular softwares. I am currently working at @agger, a software company for insurance brokers in Brazil, but feel 100% free to talk to me about any idea you got, any project, feature or just to say a "hi". Don't hesitate to get in touch with me. You can find my contacts right at the bottom of this page :)
+I am a self-taught software engineer with 5 years of experience, based on Sapiranga, Brazil. I have a strong background in building scalable Front-End architectures, 
+designing reusable UI components and intergrating with REST APIs across many large projects using Angular and .NET. I'm experienced in clean code, performance and collaborative Agile (scrum/kanban) environments. 
+
+Currently working at @Dimensa (a TOTVS company) for financial institutions and insurance
+organizations. You should take a look at my resume right below ⬇️
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
@@ -12,16 +17,22 @@ I am a self-taught software engineer based on Sapiranga, Brazil. For the past th
 </div>
   
 <!-- Languages I'm working on -->
-## and I'm working with
+## My technologies
   
-I am currently looking to learn and work with the following technologies:
+I am currently looking to with the following technologies:
 <div style="display: inline_block"><br>
-  <img align="center" alt="html" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sass" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />    
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+                
+  <i class="devicon-amazonwebservices-plain-wordmark"></i>
+          
+          
 </div>
   
   ##
