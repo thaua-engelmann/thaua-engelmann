@@ -6,10 +6,8 @@ designing reusable UI components and intergrating with REST APIs across many lar
 Currently working at @Dimensa (a TOTVS company) for financial institutions and insurance
 organizations. You should take a look at my resume right below ⬇️
 
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
-<!-- Github readme Status -->
 <div>
   <a href="https://github.com/thaua-engelmann">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaua-engelmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -41,16 +39,10 @@ I am currently looking to with the following technologies:
   ## Contact me
 You can try to contact me using:
 <div>
-    <a href="https://api.whatsapp.com/send?phone=5551997108308" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/thau%C3%A3-engelmann-6aaa04219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://api.whatsapp.com/send?phone=5551997474867" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/thaua-engelmann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:engelmann.webdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
   
 ##  
-Please, if you have any questions about me, about my projects / work or just want to say a hello, really don't hesitate to contact me using my social links :)
-
-<!--- 👋 A junior Front-End developer based on Sapiranga, Brazil...
-- 👀 I’m interested in front-end opportunities and collaborative projects...
-- 🌱 I’m currently learning Javascript and React JS...
-- 💞️ I’m looking to collaborate on front-end projects...
-- 📫 You can reach me by taking a look at my profile and acessing some of my social medias or website portfolio... -->
+Please, if you have any questions about me, about my projects / work or just want to say a hello, don't hesitate to get in touch using my social links :)
